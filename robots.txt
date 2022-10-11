@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://veritythink.com/sitemap.xml
