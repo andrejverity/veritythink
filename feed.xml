@@ -3,7 +3,7 @@
     <title>verity•think</title>
     <link href="https://veritythink.com/feed.xml" rel="self" />
     <link href="https://veritythink.com" />
-    <updated>2026-03-07T16:10:55+01:00</updated>
+    <updated>2026-03-07T16:20:47+01:00</updated>
     <author>
         <name>Andrej Verity</name>
     </author>
@@ -17,7 +17,6 @@
         <link href="https://veritythink.com/optimizing-data-for-ai-chatbots/"/>
         <id>https://veritythink.com/optimizing-data-for-ai-chatbots/</id>
         <media:content url="https://veritythink.com/media/posts/5/Cover-Optimizing-Data-for-AI-Chatbots-January-2026.jpg" medium="image" />
-            <category term="Paper"/>
 
         <updated>2026-01-30T10:00:00+01:00</updated>
             <summary>
@@ -33,7 +32,11 @@
 <p>Written with Ralfs Rudzitis; January 2026</p>
 <p><strong><a href="https://veritythink.com/media/files/Optimizing Data for AI Chatbots - January 2026.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
 <hr>
-<h2 data-path-to-node="0">AI Summary:</h2>
+<h2 data-path-to-node="0">AI generated summary:</h2>
+<table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%;">
 <h3 data-path-to-node="2">Executive Summary</h3>
 <p data-path-to-node="3"><span data-path-to-node="3,1"><span class="citation-253">Recent research indicates that advanced AI performance can plummet by up to </span><strong data-path-to-node="3,1" data-index-in-node="76"><span class="citation-253">59%</span></strong><span class="citation-253"> when processing datasets with common real-world imperfections</span></span><span data-path-to-node="3,3">. </span><span data-path-to-node="3,5"><span class="citation-252">As AI chatbots become primary tools for data analysis, providers must transition from "human-readable" to "machine-optimized" data structures to ensure accuracy</span></span><span data-path-to-node="3,7">. </span><span data-path-to-node="3,9"><span class="citation-251">This report, authored by Ralfs Rudzitis and Andrej Verity, provides a technical framework for preparing downloadable datasets that minimize automated errors in high-stakes environments</span></span><span data-path-to-node="3,11">.</span></p>
 <p id="p-rc_29d3fd78a0a1a612-104" data-path-to-node="3"></p>
@@ -45,6 +48,11 @@
 <p id="p-rc_29d3fd78a0a1a612-106" data-path-to-node="7"></p>
 <h3 data-path-to-node="8">Strategic Prompting for End-Users</h3>
 <p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"><span data-path-to-node="9,1"><span class="citation-243">The quality of AI output is heavily dependent on the "End-User Strategy" employed</span></span><span data-path-to-node="9,3">. </span><span data-path-to-node="9,5"><span class="citation-242">Users are encouraged to utilize </span><strong data-path-to-node="9,5" data-index-in-node="32"><span class="citation-242">"Chain-of-Thought" prompting</span></strong><span class="citation-242">, explicitly asking the AI to "show its work step-by-step" to avoid logical leaps</span></span><span data-path-to-node="9,7">. </span><span data-path-to-node="9,9"><span class="citation-241">Furthermore, defining specific roles (e.g., "Act as a senior financial analyst") and starting fresh chat sessions for new tasks helps manage the AI's "context window," preventing "memory fatigue" that leads to invented or ignored data</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
 <p id="p-rc_0f5d1bb659606df9-100" data-path-to-node="3"></p>
             ]]>
         </content>
