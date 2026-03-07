@@ -3,10 +3,39 @@
     <title>verity•think</title>
     <link href="https://veritythink.com/feed.xml" rel="self" />
     <link href="https://veritythink.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-03-07T15:28:10+01:00</updated>
     <author>
         <name>Andrej Verity</name>
     </author>
     <id>https://veritythink.com</id>
 
+    <entry>
+        <title>Test paper page</title>
+        <author>
+            <name>Andrej Verity</name>
+        </author>
+        <link href="https://veritythink.com/test-paper-page/"/>
+        <id>https://veritythink.com/test-paper-page/</id>
+        <media:content url="https://veritythink.com/media/posts/5/cutom-lego-palais-des-nations-with-box-1995px.png" medium="image" />
+            <category term="Paper"/>
+
+        <updated>2026-03-01T15:23:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://veritythink.com/media/posts/5/cutom-lego-palais-des-nations-with-box-1995px.png" alt="" />
+                    AI Summary of Optimizing Data for AI Chatbots According to the report from January 2026, even the most advanced AI models can experience a performance drop of up to 59% when moving from clean data to datasets with real-world imperfections. To mitigate this, data providers&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://veritythink.com/media/posts/5/cutom-lego-palais-des-nations-with-box-1995px.png" class="type:primaryImage" alt="" /></p>
+                <h2 data-path-to-node="0">AI Summary of Optimizing Data for AI Chatbots</h2>
+<p data-path-to-node="1"><span data-path-to-node="1,1"><span class="citation-193">According to the report from January 2026, even the most advanced AI models can experience a performance drop of up to </span><strong data-path-to-node="1,1" data-index-in-node="119"><span class="citation-193">59%</span></strong><span class="citation-193"> when moving from clean data to datasets with real-world imperfections</span></span><span data-path-to-node="1,3">. </span><span data-path-to-node="1,5"><span class="citation-192">To mitigate this, data providers are encouraged to follow specific formatting guidelines, such as keeping file sizes under </span><strong data-path-to-node="1,5" data-index-in-node="123"><span class="citation-192">25MB</span></strong><span class="citation-192"> and ensuring each sheet contains only one table with no merged cells or blank rows</span></span><span data-path-to-node="1,7">. </span><span data-path-to-node="1,9"><span class="citation-191">Additionally, "wide" formatting—using more columns and fewer rows—is recommended to increase AI accuracy</span></span><span data-path-to-node="1,11">.</span></p>
+<p id="p-rc_0f5d1bb659606df9-98" data-path-to-node="1"></p>
+<p data-path-to-node="2"><span data-path-to-node="2,1"><span class="citation-190">The report identifies two primary ways AI chatbots process data: </span><strong data-path-to-node="2,1" data-index-in-node="65"><span class="citation-190">"Calculator Mode,"</span></strong><span class="citation-190"> which uses computer scripts for mathematical precision but may ignore context, and </span><strong data-path-to-node="2,1" data-index-in-node="167"><span class="citation-190">"Reader Mode,"</span></strong><span class="citation-190"> which treats data like text for better context but suffers from "memory fatigue"</span></span><span data-path-to-node="2,3">. </span><span data-path-to-node="2,5"><span class="citation-189">In current performance testing, </span><strong data-path-to-node="2,5" data-index-in-node="32"><span class="citation-189">Google Gemini 3 Pro</span></strong><span class="citation-189"> was rated "High" for its ability to handle large OCHA datasets correctly on the first attempt, while </span><strong data-path-to-node="2,5" data-index-in-node="153"><span class="citation-189">ChatGPT 5</span></strong><span class="citation-189"> was rated "Low" due to failures on files over 30MB</span></span><span data-path-to-node="2,7">.</span></p>
+<p id="p-rc_0f5d1bb659606df9-99" data-path-to-node="2"></p>
+<p id="p-rc_0f5d1bb659606df9-100" data-path-to-node="3"><span data-path-to-node="3,1"><span class="citation-188">To achieve the best results, end-users should provide AI with clear roles and specific goals rather than simply asking for a general analysis</span></span><span data-path-to-node="3,3">. </span><span data-path-to-node="3,5"><span class="citation-187">Utilizing </span><strong data-path-to-node="3,5" data-index-in-node="10"><span class="citation-187">"Chain-of-Thought" prompting</span></strong><span class="citation-187">, where the AI is asked to show its work step-by-step, is a critical strategy for ensuring complex math is processed methodically</span></span><span data-path-to-node="3,7">. </span><span data-path-to-node="3,9"><span class="citation-186">Users are also advised to start fresh chat sessions for new complex analyses to avoid the "forgetting" that occurs when the chat history consumes the model's context window</span></span></p>
+            ]]>
+        </content>
+    </entry>
 </feed>
