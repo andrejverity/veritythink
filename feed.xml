@@ -3,7 +3,7 @@
     <title>verity•think</title>
     <link href="https://veritythink.com/feed.xml" rel="self" />
     <link href="https://veritythink.com" />
-    <updated>2026-03-07T16:20:47+01:00</updated>
+    <updated>2026-03-08T15:37:11+01:00</updated>
     <author>
         <name>Andrej Verity</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://veritythink.com/optimizing-data-for-ai-chatbots/"/>
         <id>https://veritythink.com/optimizing-data-for-ai-chatbots/</id>
         <media:content url="https://veritythink.com/media/posts/5/Cover-Optimizing-Data-for-AI-Chatbots-January-2026.jpg" medium="image" />
+            <category term="Paper"/>
 
         <updated>2026-01-30T10:00:00+01:00</updated>
             <summary>
@@ -48,6 +49,56 @@
 <p id="p-rc_29d3fd78a0a1a612-106" data-path-to-node="7"></p>
 <h3 data-path-to-node="8">Strategic Prompting for End-Users</h3>
 <p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"><span data-path-to-node="9,1"><span class="citation-243">The quality of AI output is heavily dependent on the "End-User Strategy" employed</span></span><span data-path-to-node="9,3">. </span><span data-path-to-node="9,5"><span class="citation-242">Users are encouraged to utilize </span><strong data-path-to-node="9,5" data-index-in-node="32"><span class="citation-242">"Chain-of-Thought" prompting</span></strong><span class="citation-242">, explicitly asking the AI to "show its work step-by-step" to avoid logical leaps</span></span><span data-path-to-node="9,7">. </span><span data-path-to-node="9,9"><span class="citation-241">Furthermore, defining specific roles (e.g., "Act as a senior financial analyst") and starting fresh chat sessions for new tasks helps manage the AI's "context window," preventing "memory fatigue" that leads to invented or ignored data</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
+<p id="p-rc_0f5d1bb659606df9-100" data-path-to-node="3"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Generative AI for Humanitarians</title>
+        <author>
+            <name>Andrej Verity</name>
+        </author>
+        <link href="https://veritythink.com/generative-ai-for-humanitarians/"/>
+        <id>https://veritythink.com/generative-ai-for-humanitarians/</id>
+        <media:content url="https://veritythink.com/media/posts/7/Generative-AI-for-Humanitarians-cover-September-2023-sm.png" medium="image" />
+            <category term="Paper"/>
+
+        <updated>2023-09-30T15:29:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://veritythink.com/media/posts/7/Generative-AI-for-Humanitarians-cover-September-2023-sm.png" alt="" />
+                    Generative AI for Humanitarians Written with Nasim Motalebi; September 2023 Read the full report The "Generative AI for Humanitarians" report, published in September 2023 by the Digital Humanitarian Network (DH Network) and authored by Nasim Motalebi and Andrej Verity, explores the transformative potential of artificial&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://veritythink.com/media/posts/7/Generative-AI-for-Humanitarians-cover-September-2023-sm.png" class="type:primaryImage" alt="" /></p>
+                <h2 data-path-to-node="0">Generative AI for Humanitarians</h2>
+<p>Written with <a href="https://www.linkedin.com/in/nasim-motalebi/" target="_blank" rel="noopener noreferrer">Nasim Motalebi</a>; September 2023</p>
+<p><strong><a href="https://veritythink.com/Generative AI for Humanitarians - September 2023.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
+<hr>
+<h2 data-path-to-node="0">AI generated summary:</h2>
+<table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%;">
+<h3 data-path-to-node="2"><span data-path-to-node="2,0"><strong data-path-to-node="2,0" data-index-in-node="0">Introduction to Generative AI in Humanitarian Action</strong></span></h3>
+<p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-349">The "Generative AI for Humanitarians" report, published in September 2023 by the Digital Humanitarian Network (DH Network) and authored by Nasim Motalebi and Andrej Verity, explores the transformative potential of artificial intelligence in crisis response</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-348">This think-brief serves as a critical stepping stone for humanitarian practitioners and leaders aiming to mainstream Generative AI tools within their organizations</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-347">By examining technical capabilities and trending strategies, the paper provides a roadmap for the safe, ethical, and responsible adoption of AI to augment human capabilities rather than replace them in the field</span></span><span data-path-to-node="2,12">.</span></p>
+<p id="p-rc_504b57ead0a591e9-133" data-path-to-node="2"></p>
+<h3 data-path-to-node="3"><span data-path-to-node="3,0"><strong data-path-to-node="3,0" data-index-in-node="0">Technical Capabilities and Practical Use Cases</strong></span></h3>
+<p data-path-to-node="3"><span data-path-to-node="3,2"><span class="citation-346">Generative AI represents a paradigm shift from traditional models that classify data to foundation models that create brand-new, unique artifacts like text, images, and video</span></span><span data-path-to-node="3,4">. </span><span data-path-to-node="3,6"><span class="citation-345">For humanitarian organizations, these tools offer profound opportunities to enhance internal efficiencies—such as automating administrative work and donor reporting—as well as project-level applications like predicting climate events or analyzing forced migration patterns</span></span><span data-path-to-node="3,8">. </span><span data-path-to-node="3,10"><span class="citation-344">The report details how technologies like Large Language Models (LLMs) and synthetic data generation can drastically reduce workloads, allowing staff to focus on substantive humanitarian issues</span></span><span data-path-to-node="3,12">.</span></p>
+<p id="p-rc_504b57ead0a591e9-134" data-path-to-node="3"></p>
+<h3 data-path-to-node="4"><span data-path-to-node="4,0"><strong data-path-to-node="4,0" data-index-in-node="0">Addressing Risks: Bias, Ethics, and Transparency</strong></span></h3>
+<p data-path-to-node="4"><span data-path-to-node="4,2"><span class="citation-343">Despite the potential, the report underscores significant technical shortcomings including algorithmic bias, misinformation (hallucinations), and data privacy risks</span></span><span data-path-to-node="4,4">. </span><span data-path-to-node="4,6"><span class="citation-342">Because AI models reflect the data they are trained on, they risk encoding and exacerbating historical social stereotypes or producing non-factual information</span></span><span data-path-to-node="4,8">. </span><span data-path-to-node="4,10"><span class="citation-341">The authors emphasize that AI adoption is an accountability and data governance issue, requiring a "human-in-the-loop" approach to ensure outputs align with humanitarian values and legal standards</span></span><span data-path-to-node="4,12">.</span></p>
+<p id="p-rc_504b57ead0a591e9-135" data-path-to-node="4"></p>
+<h3 id="p-rc_504b57ead0a591e9-136" data-path-to-node="5"><span data-path-to-node="5,0"><strong data-path-to-node="5,0" data-index-in-node="0">The Road to a Humanitarian AI Ecosystem</strong></span></h3>
+<p data-path-to-node="5"><span data-path-to-node="5,2"><span class="citation-340">To navigate this landscape, the report introduces "10 Rules of Thumb" and recommends building a robust Humanitarian AI Ecosystem</span></span><span data-path-to-node="5,4">. </span><span data-path-to-node="5,6"><span class="citation-339">This strategic framework focuses on five key pillars: selecting appropriate data and technology, establishing governance and regulations, investing in AI upskilling, implementing continuous evaluation, and fostering multilateral coordination</span></span><span data-path-to-node="5,8">. </span><span data-path-to-node="5,10"><span class="citation-338">By utilizing sandbox environments for safe testing and prioritizing transparency, organizations can harness the power of AI to deliver more effective assistance while remaining unwavering in their commitment to humanitarian principles</span></span></p>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
 </td>
 </tr>
 </tbody>
