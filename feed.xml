@@ -3,7 +3,7 @@
     <title>verity•think</title>
     <link href="https://veritythink.com/feed.xml" rel="self" />
     <link href="https://veritythink.com" />
-    <updated>2026-03-08T16:19:53+01:00</updated>
+    <updated>2026-03-08T16:23:53+01:00</updated>
     <author>
         <name>Andrej Verity</name>
     </author>
@@ -391,6 +391,52 @@
 <p data-path-to-node="4"><span data-path-to-node="4,1"><span class="citation-587">The report further explores the "funding paradox," where donors often prioritize "innovative" buzzwords like blockchain over practical, problem-led solutions</span></span><span data-path-to-node="4,3">. </span><span data-path-to-node="4,5"><span class="citation-586">This environment can lead to fragmented efforts and a lack of transparency between organizations</span></span><span data-path-to-node="4,7">. </span><span data-path-to-node="4,9"><span class="citation-585">To combat this, the authors provide actionable recommendations for every stage of a project, from pre-implementation decision trees to risk assessments regarding GDPR compliance and data minimization</span></span><span data-path-to-node="4,11">. </span><span data-path-to-node="4,13"><span class="citation-584">These guidelines are designed to help humanitarian actors navigate the complexities of decentralized technology while adhering to the "do no harm" principle</span></span><span data-path-to-node="4,15">.</span></p>
 <p id="p-rc_3c942344ec230303-178" data-path-to-node="4"></p>
 <p id="p-rc_3c942344ec230303-179" data-path-to-node="5"><span data-path-to-node="5,1"><span class="citation-583">In its concluding remarks, the paper advocates for a shift toward greater transparency and inter-organizational collaboration</span></span><span data-path-to-node="5,3">. </span><span data-path-to-node="5,5"><span class="citation-582">By documenting both successful scaling and disproved assumptions—such as the challenges of Self-Sovereign Identity (SSI) in rural contexts—the report serves as an essential knowledge bank for the sector</span></span><span data-path-to-node="5,7">. </span><span data-path-to-node="5,9"><span class="citation-581">Ultimately, it suggests that while blockchain offers transformative potential for accountability and neutral data exchange, its success depends on rigorous field testing, political buy-in, and a commitment to inclusive design that supports the most marginalized aid recipients</span></span></p>
+<p id="p-rc_20765557b8f2efd5-175" data-path-to-node="3"></p>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
+<p id="p-rc_0f5d1bb659606df9-100" data-path-to-node="3"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A Decade Later - Reflecting on Disaster Relief 2.0</title>
+        <author>
+            <name>Andrej Verity</name>
+        </author>
+        <link href="https://veritythink.com/a-decade-later-reflecting-on-disaster-relief-20/"/>
+        <id>https://veritythink.com/a-decade-later-reflecting-on-disaster-relief-20/</id>
+        <media:content url="https://veritythink.com/media/posts/14/A-Decade-Later-Reflecting-on-Disaster-Relief-2.0-June-2022.PNG" medium="image" />
+            <category term="Paper"/>
+
+        <updated>2022-06-30T16:21:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://veritythink.com/media/posts/14/A-Decade-Later-Reflecting-on-Disaster-Relief-2.0-June-2022.PNG" alt="" />
+                    A Decade Later - Reflecting on Disaster Relief 2.0 Written with Kristen Pearn and Sarah A Jabbar; June 2022 Read the full report The report provides a critical retrospective on the evolution of digital humanitarianism since the landmark 2011 "Disaster Relief 2.0" report. The research&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://veritythink.com/media/posts/14/A-Decade-Later-Reflecting-on-Disaster-Relief-2.0-June-2022.PNG" class="type:primaryImage" alt="" /></p>
+                <h2 data-path-to-node="0">A Decade Later - Reflecting on Disaster Relief 2.0</h2>
+<p>Written with <a href="https://www.linkedin.com/in/kristen-pearn/" target=" _blank=">Kristen Pearn</a> and <a href="https://www.linkedin.com/in/sarah-a-jabbar-84621b6b/" target=" _blank=">Sarah A Jabbar</a>; June 2022</p>
+<p><strong><a href="https://veritythink.com/A Decade Later - Reflecting on Disaster Relief 2.0 - June 2022.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
+<hr>
+<h2 data-path-to-node="0">AI generated summary:</h2>
+<table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%;">
+<p data-path-to-node="0"><span data-path-to-node="0,1"><span class="citation-630">The report provides a critical retrospective on the evolution of digital humanitarianism since the landmark 2011 "Disaster Relief 2.0" report</span></span><span data-path-to-node="0,3">. </span><span data-path-to-node="0,5"><span class="citation-629">The research evaluates how the humanitarian sector has—or has not—integrated the digital volunteer networks that first gained global prominence during the 2010 Haiti earthquake response</span></span><span data-path-to-node="0,7">. </span><span data-path-to-node="0,9"><span class="citation-628">By interviewing 46 experts, including original authors and Haitian local representatives, the authors examine a decade of progress in information management (IM) and cross-sector collaboration</span></span><span data-path-to-node="0,11">.</span></p>
+<p id="p-rc_ca89116b7e35385e-180" data-path-to-node="0"></p>
+<p data-path-to-node="1"><span data-path-to-node="1,1"><span class="citation-627">The findings reveal that while the 2011 report was a "stake in the sand" for digital aid, many systemic challenges persist, including fragmented data streams and a lack of formal interfaces between traditional agencies and the </span><strong data-path-to-node="1,1" data-index-in-node="227"><span class="citation-627">Digital Humanitarian Community (DHC)</span></strong></span><span data-path-to-node="1,3">. </span><span data-path-to-node="1,5"><span class="citation-626">Although investments in IM have increased, progress remains slow and varied across organizations</span></span><span data-path-to-node="1,7">. </span><span data-path-to-node="1,9"><span class="citation-625">The report highlights a critical shift in focus from international "expert-led" responses toward </span><strong data-path-to-node="1,9" data-index-in-node="97"><span class="citation-625">localization</span></strong><span class="citation-625">, emphasizing that local actors and affected communities are now often the primary users and producers of digital information</span></span><span data-path-to-node="1,11">.</span></p>
+<p id="p-rc_ca89116b7e35385e-181" data-path-to-node="1"></p>
+<p id="p-rc_ca89116b7e35385e-182" data-path-to-node="2"><span data-path-to-node="2,1"><span class="citation-624">Looking forward, the report identifies emerging risks and opportunities in the humanitarian landscape, such as the rise of </span><strong data-path-to-node="2,1" data-index-in-node="123"><span class="citation-624">AI, cybersecurity threats, and data privacy</span></strong></span><span data-path-to-node="2,3">. </span><span data-path-to-node="2,5"><span class="citation-623">It critiques the "Western-centric" nature of the original framework and calls for a paradigm shift that empowers local institutions through capacity-building and better resource allocation</span></span><span data-path-to-node="2,7">. </span><span data-path-to-node="2,9"><span class="citation-622">The conclusion suggests that while specific digital volunteer groups may have transformed or dissolved, their impact forced the traditional humanitarian system to adapt to the data-heavy realities of the 21st century</span></span><span data-path-to-node="2,11">.</span></p>
+<p id="p-rc_3c942344ec230303-179" data-path-to-node="5"></p>
 <p id="p-rc_20765557b8f2efd5-175" data-path-to-node="3"></p>
 <p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
 </td>
