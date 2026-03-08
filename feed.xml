@@ -3,7 +3,7 @@
     <title>verity•think</title>
     <link href="https://veritythink.com/feed.xml" rel="self" />
     <link href="https://veritythink.com" />
-    <updated>2026-03-08T15:50:50+01:00</updated>
+    <updated>2026-03-08T15:57:35+01:00</updated>
     <author>
         <name>Andrej Verity</name>
     </author>
@@ -148,6 +148,53 @@
 <p id="p-rc_7d63adbade40858c-143" data-path-to-node="4"></p>
 <h3 id="p-rc_7d63adbade40858c-144" data-path-to-node="5"><span data-path-to-node="5,0"><strong data-path-to-node="5,0" data-index-in-node="0">Building a Data-Secure Humanitarian Future</strong></span></h3>
 <p data-path-to-node="5"><span data-path-to-node="5,2"><span class="citation-376">Ultimately, the report argues that data security is not just a technical challenge but a "wicked problem" that requires a fundamental cultural shift within the sector</span></span><span data-path-to-node="5,4">. </span><span data-path-to-node="5,6"><span class="citation-375">Moving forward, organizations must prioritize data security in funding decisions and donor reporting to ensure that digital protection becomes as much a priority as physical aid</span></span><span data-path-to-node="5,8">. </span><span data-path-to-node="5,10"><span class="citation-374">By adopting scenario and impact analysis as a standard requirement, the humanitarian community can protect its reputation and, most importantly, prevent real-world harm to the people it serves</span></span><span data-path-to-node="5,12">.</span></p>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
+<p id="p-rc_0f5d1bb659606df9-100" data-path-to-node="3"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Identifying places - Improving data connectivity through unique identifiers</title>
+        <author>
+            <name>Andrej Verity</name>
+        </author>
+        <link href="https://veritythink.com/identifying-places-improving-data-connectivity-through-unique-identifiers/"/>
+        <id>https://veritythink.com/identifying-places-improving-data-connectivity-through-unique-identifiers/</id>
+        <media:content url="https://veritythink.com/media/posts/10/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg" medium="image" />
+            <category term="Paper"/>
+
+        <updated>2022-10-31T15:53:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://veritythink.com/media/posts/10/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg" alt="" />
+                    Identifying places - Improving data connectivity through unique identifiers Written with Elaine Donderer and Tom Haythornthwaite ; October 2022 Read the full report The report examines the fundamental role of "P-codes" (place codes) in humanitarian response. Authored by Elaine Donderer, Tom Haythornthwaite, and Andrej Verity, the paper&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://veritythink.com/media/posts/10/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg" class="type:primaryImage" alt="" /></p>
+                <h2 data-path-to-node="0">Identifying places - Improving data connectivity through unique identifiers</h2>
+<p>Written with <a href="https://www.linkedin.com/in/elaine-donderer-88b6b6183/" target="_blank" rel="noopener noreferrer">Elaine Donderer</a> and <a href="https://www.linkedin.com/in/tom-haythornthwaite-9b3926120/" target="_blank" rel="noopener noreferrer">Tom Haythornthwaite</a> ; October 2022</p>
+<p><strong><a href="https://veritythink.com/Identifying places - Improving data connectivity through unique identifiers  - October 2022.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
+<hr>
+<h2 data-path-to-node="0">AI generated summary:</h2>
+<table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%;">
+<h3 data-path-to-node="2">Executive Summary</h3>
+<p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-457">The report</span><span class="citation-457"> examines the fundamental role of "P-codes" (place codes) in humanitarian response</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-456">Authored by Elaine Donderer, Tom Haythornthwaite, and Andrej Verity, the paper highlights how unique identifiers serve as the "unique key" that ties complex Geographic Information Systems (GIS) together</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-455">By providing a standardized way to code administrative units and populated places, P-codes enable diverse agencies to exchange and analyze data across different languages and spellings, preventing a waste of resources and duplicated efforts during life-saving missions</span></span><span data-path-to-node="2,12">.</span></p>
+<h3 data-path-to-node="3"><span data-path-to-node="3,0"><strong data-path-to-node="3,0" data-index-in-node="0">Lessons Learned: From Kosovo to Ukraine</strong></span></h3>
+<p data-path-to-node="3"><span data-path-to-node="3,2"><span class="citation-454">Tracing the history of P-codes back to the 1998–1999 Kosovo War, the report illustrates how these identifiers originated as an inter-agency effort to coordinate rapid needs assessments</span></span><span data-path-to-node="3,4">. </span><span data-path-to-node="3,6"><span class="citation-453">Modern success stories, such as the response to the 2022 military conflict in Ukraine, demonstrate that P-codes remain essential for navigating geographies with duplicate place names and ensuring international actors plan aid for the correct locations</span></span><span data-path-to-node="3,8">. </span><span data-path-to-node="3,10"><span class="citation-452">However, the report also identifies a "yawning gap" where P-codes are often siloed within organizations or developed only at the onset of a disaster, rather than being integrated into national governance and long-term development strategies</span></span><span data-path-to-node="3,12">.</span></p>
+<h3 data-path-to-node="4"><span data-path-to-node="4,0"><strong data-path-to-node="4,0" data-index-in-node="0">Overcoming Technical and Political Barriers</strong></span></h3>
+<p data-path-to-node="4"><span data-path-to-node="4,2"><span class="citation-451">Despite their benefits, the adoption of unique identifiers faces significant hurdles, including a lack of temporal lineage—where codes do not reflect how boundaries change over time—and the difficulty of aligning specialized data, such as health districts, with standard administrative boundaries</span></span><span data-path-to-node="4,4">. </span><span data-path-to-node="4,6"><span class="citation-450">Furthermore, the report emphasizes the political dimension of defining spaces; imposing top-down identifiers can inadvertently marginalize communities if not done inclusively</span></span><span data-path-to-node="4,8">. </span><span data-path-to-node="4,10"><span class="citation-449">To address this, the authors advocate for an anti-colonial approach to data ownership that accredits national governments and local sources, ensuring the data remains accurate and sustainable</span></span><span data-path-to-node="4,12">.</span></p>
+<h3 id="p-rc_0f506ff7c2a0dcfa-160" data-path-to-node="5"><span data-path-to-node="5,0"><strong data-path-to-node="5,0" data-index-in-node="0">A Roadmap for the Future of Geospatial Data</strong></span></h3>
+<p data-path-to-node="5"><span data-path-to-node="5,2"><span class="citation-448">Looking ahead, the report suggests that the future of identifying places lies in inter-agency collaboration and the exploration of automated processes like machine learning</span></span><span data-path-to-node="5,4">. </span><span data-path-to-node="5,6"><span class="citation-447">By creating an "inter-agency adapter" to link different coding schemes and prioritizing national ownership of data, the humanitarian community can build a more resilient information infrastructure</span></span><span data-path-to-node="5,8">. </span><span data-path-to-node="5,10"><span class="citation-446">The ultimate goal is to move beyond technical silos and foster a culture where geographic identifiers bring people and disciplines together to improve humanitarian outcomes worldwide</span></span><span data-path-to-node="5,12">.</span></p>
 <p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
 </td>
 </tr>
