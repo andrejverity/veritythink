@@ -3,7 +3,7 @@
     <title>verity•think</title>
     <link href="https://veritythink.com/feed.xml" rel="self" />
     <link href="https://veritythink.com" />
-    <updated>2026-03-15T18:13:28+01:00</updated>
+    <updated>2026-03-15T18:37:33+01:00</updated>
     <author>
         <name>Andrej Verity</name>
     </author>
@@ -66,16 +66,13 @@
         <updated>2024-07-31T20:45:00+02:00</updated>
             <summary>
                 <![CDATA[
-                    Future of Cybersecurity and Digital Governance - Quantum Meets AI Written with Kyrylo Khutornyi; July 2024 Internal report - not released publically The report examines the rapidly evolving cybersecurity environment shaping humanitarian operations, highlighting how emerging technologies - particularly cloud computing, artificial intelligence, and quantum&hellip;
+                    Written with Kyrylo Khutornyi July 2024 Internal report - not released publically The report examines the rapidly evolving cybersecurity environment shaping humanitarian operations, highlighting how emerging technologies - particularly cloud computing, artificial intelligence, and quantum computing - are transforming both risks and defensive capabilities. It&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 data-path-to-node="0"><strong>Future of Cybersecurity and Digital Governance - Quantum Meets AI</strong></h2>
-<p><span style="font-weight: 400;">Written with <a href="https://www.linkedin.com/in/kyrylo-khutornyi/" target="_blank" rel="noopener noreferrer">Kyrylo Khutornyi</a>; July 2024</span></p>
+                <p><span style="font-weight: 400;">Written with <a href="https://www.linkedin.com/in/kyrylo-khutornyi/" target="_blank" rel="noopener noreferrer">Kyrylo Khutornyi</a><br>July 2024</span></p>
 <p><span style="text-decoration: underline; color: #e03e2d;"><strong>Internal report - not released publically</strong></span></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
@@ -83,6 +80,7 @@
 <div>
 <div>
 <div>
+<h2 data-path-to-node="0">AI generated summary</h2>
 <p>The report examines the rapidly evolving cybersecurity environment shaping humanitarian operations, highlighting how emerging technologies - particularly cloud computing, artificial intelligence, and quantum computing - are transforming both risks and defensive capabilities. It underscores that cyber‑threats are increasing in scale and sophistication, with humanitarian organizations facing disproportionate exposure due to resource constraints, legacy systems, and operational work in high‑risk environments. Historical incidents across the humanitarian sector reveal recurring patterns of misconfigurations, credential theft, and exploitation of vulnerable infrastructures, emphasizing the need for proactive and systemic digital resilience.</p>
 <p>Cloud adoption continues to offer significant operational advantages, yet new forms of vulnerabilities are emerging through multi‑cloud complexity, misconfigured storage, and server‑side exploits. Meanwhile, the acceleration of AI adoption introduces new categories of risk ranging from unintended data leakage and deepfake‑driven social engineering to adversarial prompt attacks, data poisoning, and model jailbreaks. The growing prevalence of small and edge‑AI models also poses resilience challenges in low‑connectivity “brownfield” environments common in crisis contexts.</p>
 <p>Quantum technology represents a longer‑term but increasingly relevant threat vector. While not yet widely accessible, quantum capabilities could eventually undermine modern cryptographic standards and enable new forms of ransomware and anonymized attacks. Although defensive research and post‑quantum cryptography are advancing, humanitarian organizations must prepare for asymmetrical adoption, where threat actors gain technological overmatch sooner than defenders.</p>
@@ -114,22 +112,20 @@
         <updated>2023-10-01T08:42:00+02:00</updated>
             <summary>
                 <![CDATA[
-                    Possibilities for AI in responding to and forecasting climate change hazards Written with Sarah Bosscha; October 2023 Internal report - not released publically Humanitarian organizations are increasingly turning to data‑driven systems to keep pace with the rising frequency and severity of climate‑related hazards. This report&hellip;
+                    Written with Sarah Bosscha October 2023 Internal report - not released publically Humanitarian organizations are increasingly turning to data‑driven systems to keep pace with the rising frequency and severity of climate‑related hazards. This report examines how artificial intelligence is reshaping climate‑hazard forecasting and humanitarian action,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 data-path-to-node="0"><strong>Possibilities for AI in responding to and forecasting climate change hazards</strong></h2>
-<p><span style="font-weight: 400;">Written with <a href="https://www.linkedin.com/in/sarah-bosscha/" target="_blank" rel="noopener noreferrer">Sarah Bosscha</a>; October 2023</span></p>
+                <p><span style="font-weight: 400;">Written with <a href="https://www.linkedin.com/in/sarah-bosscha/" target="_blank" rel="noopener noreferrer">Sarah Bosscha</a><br>October 2023</span></p>
 <p><span style="text-decoration: underline; color: #e03e2d;"><strong>Internal report - not released publically</strong></span></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
 <div>
 <div>
+<h2 data-path-to-node="0">AI generated summary</h2>
 <p>Humanitarian organizations are increasingly turning to data‑driven systems to keep pace with the rising frequency and severity of climate‑related hazards. This report examines how artificial intelligence is reshaping climate‑hazard forecasting and humanitarian action, especially through predictive analytics, early warning systems, and anticipatory financing. It highlights how modern machine‑learning models can process massive datasets - from satellite imagery to environmental sensors - far faster than traditional methods, enabling earlier detection of risks such as floods, cyclones, droughts, and displacement pressures.</p>
 <p>A central insight is the transformative role of anticipatory action frameworks. By combining scientific forecasting with pre‑agreed funding triggers, AI‑enabled systems allow humanitarian teams to act before disasters escalate. Several pilots show that automated hazard prediction and simplified operational workflows can accelerate response windows, reduce impact, and increase cost‑efficiency. However, scaling these systems requires improved data quality, stronger operational capacity, and sustained investment in both technology and field‑level readiness.</p>
 <p>The report also explores practical applications already in use. Examples include AI models that estimate relief needs for climate‑driven cyclones, systems that predict conflict‑linked displacement linked to environmental anomalies, and simulations that help visualize how climate variables could reshape vulnerabilities over time. Tools such as natural‑language processing, computer vision, and neural‑network‑based climate models demonstrate how AI can streamline information management, assess risk, and automate labor‑intensive analytical tasks.</p>
@@ -160,21 +156,19 @@
         <updated>2023-10-01T08:38:00+02:00</updated>
             <summary>
                 <![CDATA[
-                    Trust and Disinformation in the Age of AI: A Humanitarian’s Guide to LLMs Written with Katherine Leonard; October 2023 Internal report - not released publically Emerging AI systems are transforming how information is produced, shared, and trusted - especially in humanitarian contexts where accuracy and&hellip;
+                    Written with Katherine Leonard October 2023 Internal report - not released publically Emerging AI systems are transforming how information is produced, shared, and trusted - especially in humanitarian contexts where accuracy and credibility are essential. The rapid rise of large language models has made it&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 data-path-to-node="0"><strong>Trust and Disinformation in the Age of AI: A Humanitarian’s Guide to LLMs</strong></h2>
-<p>Written with<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> <span style="font-weight: 400;">Katherine Leonard;</span></span> October 2023</p>
+                <p>Written with<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> <span style="font-weight: 400;">Katherine Leonard<br></span></span>October 2023</p>
 <p><span style="text-decoration: underline; color: #e03e2d;"><strong>Internal report - not released publically</strong></span></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
 <div>
+<h2 data-path-to-node="0">AI generated summary</h2>
 <p>Emerging AI systems are transforming how information is produced, shared, and trusted - especially in humanitarian contexts where accuracy and credibility are essential. The rapid rise of large language models has made it easier than ever to generate human‑like text, but these same strengths create new vulnerabilities. Humanitarian practitioners now face a landscape where misinformation can spread unintentionally through well‑meaning use of AI tools, and where disinformation campaigns can be more sophisticated, multilingual, and scalable than anything previously seen.</p>
 <p>The report examines how these models work, why they so often produce persuasive but inaccurate content, and how dataset limitations, hallucinations, and built‑in biases can erode trust. It highlights the ease with which malicious actors can circumvent safety guardrails, automate harmful narratives, and exploit AI to fabricate evidence, mimic institutional voices, or amplify conspiracy theories. These capabilities fundamentally reshape the threat environment for humanitarian work, increasing risks for personnel and potentially undermining core principles such as neutrality and impartiality.</p>
 <p>At the same time, the analysis stresses that these tools hold meaningful potential. When used responsibly, AI can help humanitarians communicate complex issues more clearly, expand access to trustworthy information, and support monitoring, analysis, and fact‑checking efforts. Because models excel at pattern recognition and generating accessible explanations, they can serve as powerful allies in understanding and countering harmful information flows.</p>
@@ -199,29 +193,24 @@
         </author>
         <link href="https://veritythink.com/generative-ai-for-humanitarians/"/>
         <id>https://veritythink.com/generative-ai-for-humanitarians/</id>
-        <media:content url="https://veritythink.com/media/posts/7/Generative-AI-for-Humanitarians-cover-September-2023-sm.png" medium="image" />
             <category term="Paper"/>
 
         <updated>2023-09-30T15:29:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://veritythink.com/media/posts/7/Generative-AI-for-Humanitarians-cover-September-2023-sm.png" alt="" />
-                    Generative AI for Humanitarians Written with Nasim Motalebi; September 2023 Read the full report The "Generative AI for Humanitarians" report, published in September 2023 by the Digital Humanitarian Network (DH Network) and authored by Nasim Motalebi and Andrej Verity, explores the transformative potential of artificial&hellip;
+                    Written with Nasim Motalebi September 2023 Read the full report The "Generative AI for Humanitarians" report, published in September 2023 by the Digital Humanitarian Network (DH Network) and authored by Nasim Motalebi and Andrej Verity, explores the transformative potential of artificial intelligence in crisis response.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veritythink.com/media/posts/7/Generative-AI-for-Humanitarians-cover-September-2023-sm.png" class="type:primaryImage" alt="" /></p>
-                <h2 data-path-to-node="0">Generative AI for Humanitarians</h2>
-<p>Written with <a href="https://www.linkedin.com/in/nasim-motalebi/" target="_blank" rel="noopener noreferrer">Nasim Motalebi</a>; September 2023</p>
+                <figure class="post__image post__image--left"><a href="https://veritythink.com/Generative AI for Humanitarians - September 2023.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://veritythink.com/media/posts/7/Generative-AI-for-Humanitarians-cover-September-2023.png" alt="" width="350" height="487" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veritythink.com/media/posts/7/responsive/Generative-AI-for-Humanitarians-cover-September-2023-xs.png 300w ,https://veritythink.com/media/posts/7/responsive/Generative-AI-for-Humanitarians-cover-September-2023-sm.png 480w ,https://veritythink.com/media/posts/7/responsive/Generative-AI-for-Humanitarians-cover-September-2023-md.png 768w ,https://veritythink.com/media/posts/7/responsive/Generative-AI-for-Humanitarians-cover-September-2023-lg.png 1024w ,https://veritythink.com/media/posts/7/responsive/Generative-AI-for-Humanitarians-cover-September-2023-xl.png 1360w ,https://veritythink.com/media/posts/7/responsive/Generative-AI-for-Humanitarians-cover-September-2023-2xl.png 1600w"></figure></a>Written with <a href="https://www.linkedin.com/in/nasim-motalebi/" target="_blank" rel="noopener noreferrer">Nasim Motalebi</a><br>September 2023</p>
 <p><strong><a href="https://veritythink.com/Generative AI for Humanitarians - September 2023.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
+<h2 data-path-to-node="0"> </h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
-<h3 data-path-to-node="2"><span data-path-to-node="2,0"><strong data-path-to-node="2,0" data-index-in-node="0">Introduction to Generative AI in Humanitarian Action</strong></span></h3>
+<h2 data-path-to-node="0">AI generated summary</h2>
 <p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-349">The "Generative AI for Humanitarians" report, published in September 2023 by the Digital Humanitarian Network (DH Network) and authored by Nasim Motalebi and Andrej Verity, explores the transformative potential of artificial intelligence in crisis response</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-348">This think-brief serves as a critical stepping stone for humanitarian practitioners and leaders aiming to mainstream Generative AI tools within their organizations</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-347">By examining technical capabilities and trending strategies, the paper provides a roadmap for the safe, ethical, and responsible adoption of AI to augment human capabilities rather than replace them in the field</span></span><span data-path-to-node="2,12">.</span></p>
 <p id="p-rc_504b57ead0a591e9-133" data-path-to-node="2"></p>
 <h3 data-path-to-node="3"><span data-path-to-node="3,0"><strong data-path-to-node="3,0" data-index-in-node="0">Technical Capabilities and Practical Use Cases</strong></span></h3>
@@ -249,29 +238,23 @@
         </author>
         <link href="https://veritythink.com/data-and-security-responsibilities-of-the-individual-humanitarian/"/>
         <id>https://veritythink.com/data-and-security-responsibilities-of-the-individual-humanitarian/</id>
-        <media:content url="https://veritythink.com/media/posts/8/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-sm.png" medium="image" />
             <category term="Paper"/>
 
         <updated>2023-06-30T15:41:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://veritythink.com/media/posts/8/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-sm.png" alt="" />
-                    Data and Security Responsibilities of the Individual Humanitarian Written with Lidewij Heerkens; June 2023 Read the full report Published in June 2023 by the Digital Humanitarian Network (DH Network), this report addresses a critical "yawning gap" between high-level organizational data policies and the daily realities&hellip;
+                    Written with Lidewij Heerkens June 2023 Read the full report Published in June 2023 by the Digital Humanitarian Network (DH Network), this report addresses a critical "yawning gap" between high-level organizational data policies and the daily realities faced by humanitarian workers. Authored by Lidewij Heerkens&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veritythink.com/media/posts/8/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-sm.png" class="type:primaryImage" alt="" /></p>
-                <h2 data-path-to-node="0">Data and Security Responsibilities of the Individual Humanitarian</h2>
-<p>Written with <a href="https://www.linkedin.com/in/lidewij-heerkens-02319a169/" target="_blank" rel="noopener noreferrer">Lidewij Heerkens</a>; June 2023</p>
+                <figure class="post__image post__image--left"><a href="https://veritythink.com/Data and Security Responsibilities of the Individual Humanitarian - June 2023.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://veritythink.com/media/posts/8/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023.png" alt="" width="916" height="1338" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veritythink.com/media/posts/8/responsive/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-xs.png 300w ,https://veritythink.com/media/posts/8/responsive/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-sm.png 480w ,https://veritythink.com/media/posts/8/responsive/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-md.png 768w ,https://veritythink.com/media/posts/8/responsive/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-lg.png 1024w ,https://veritythink.com/media/posts/8/responsive/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-xl.png 1360w ,https://veritythink.com/media/posts/8/responsive/Data-and-Security-Responsibilities-of-the-Individual-Humanitarian-June-2023-2xl.png 1600w"></figure></a>Written with <a href="https://www.linkedin.com/in/lidewij-heerkens-02319a169/" target="_blank" rel="noopener noreferrer">Lidewij Heerkens</a><br>June 2023</p>
 <p><strong><a href="https://veritythink.com/Data and Security Responsibilities of the Individual Humanitarian - June 2023.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
-<h3 data-path-to-node="2"><span data-path-to-node="2,0"><strong data-path-to-node="2,0" data-index-in-node="0">Bridging the Gap in Humanitarian Data Security</strong></span></h3>
+<h2 data-path-to-node="0">AI generated summary</h2>
 <p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-385">Published in June 2023 by the Digital Humanitarian Network (DH Network), this report addresses a critical "yawning gap" between high-level organizational data policies and the daily realities faced by humanitarian workers</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-384">Authored by Lidewij Heerkens and Andrej Verity, the study highlights how inconsistent data security practices across the sector create undeniable risks for vulnerable populations</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-383">By examining the disconnect between outdated mandatory policies and modern field requirements, the report serves as an urgent call to action for international organizations to modernize their approach to digital protection</span></span><span data-path-to-node="2,12">.</span></p>
 <p id="p-rc_7d63adbade40858c-141" data-path-to-node="2"></p>
 <h3 data-path-to-node="3"><span data-path-to-node="3,0"><strong data-path-to-node="3,0" data-index-in-node="0">The Burden of Individual Responsibility and "Shadow IT"</strong></span></h3>
@@ -299,29 +282,23 @@
         </author>
         <link href="https://veritythink.com/identifying-places-improving-data-connectivity-through-unique-identifiers/"/>
         <id>https://veritythink.com/identifying-places-improving-data-connectivity-through-unique-identifiers/</id>
-        <media:content url="https://veritythink.com/media/posts/10/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg" medium="image" />
             <category term="Paper"/>
 
         <updated>2022-10-31T15:53:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://veritythink.com/media/posts/10/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg" alt="" />
-                    Identifying places - Improving data connectivity through unique identifiers Written with Elaine Donderer and Tom Haythornthwaite ; October 2022 Read the full report The report examines the fundamental role of "P-codes" (place codes) in humanitarian response. Authored by Elaine Donderer, Tom Haythornthwaite, and Andrej Verity, the paper&hellip;
+                    Written with Elaine Donderer and Tom Haythornthwaite October 2022 Read the full report The report examines the fundamental role of "P-codes" (place codes) in humanitarian response. Authored by Elaine Donderer, Tom Haythornthwaite, and Andrej Verity, the paper highlights how unique identifiers serve as the "unique key"&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veritythink.com/media/posts/10/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022.jpg" class="type:primaryImage" alt="" /></p>
-                <h2 data-path-to-node="0">Identifying places - Improving data connectivity through unique identifiers</h2>
-<p>Written with <a href="https://www.linkedin.com/in/elaine-donderer-88b6b6183/" target="_blank" rel="noopener noreferrer">Elaine Donderer</a> and <a href="https://www.linkedin.com/in/tom-haythornthwaite-9b3926120/" target="_blank" rel="noopener noreferrer">Tom Haythornthwaite</a> ; October 2022</p>
+                <figure class="post__image post__image--left"><a href="https://veritythink.com/Identifying places - Improving data connectivity through unique identifiers  - October 2022.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://veritythink.com/media/posts/10/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022-2.jpg" alt="" width="595" height="842" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veritythink.com/media/posts/10/responsive/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022-2-xs.jpg 300w ,https://veritythink.com/media/posts/10/responsive/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022-2-sm.jpg 480w ,https://veritythink.com/media/posts/10/responsive/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022-2-md.jpg 768w ,https://veritythink.com/media/posts/10/responsive/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022-2-lg.jpg 1024w ,https://veritythink.com/media/posts/10/responsive/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022-2-xl.jpg 1360w ,https://veritythink.com/media/posts/10/responsive/Identifying-places-Improving-data-connectivity-through-unique-identifiers-October-2022-2-2xl.jpg 1600w"></figure></a>Written with <a href="https://www.linkedin.com/in/elaine-donderer-88b6b6183/" target="_blank" rel="noopener noreferrer">Elaine Donderer</a> and <a href="https://www.linkedin.com/in/tom-haythornthwaite-9b3926120/" target="_blank" rel="noopener noreferrer">Tom Haythornthwaite</a><br>October 2022</p>
 <p><strong><a href="https://veritythink.com/Identifying places - Improving data connectivity through unique identifiers  - October 2022.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
-<h3 data-path-to-node="2">Executive Summary</h3>
+<h2 data-path-to-node="0">AI generated summary</h2>
 <p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-457">The report</span><span class="citation-457"> examines the fundamental role of "P-codes" (place codes) in humanitarian response</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-456">Authored by Elaine Donderer, Tom Haythornthwaite, and Andrej Verity, the paper highlights how unique identifiers serve as the "unique key" that ties complex Geographic Information Systems (GIS) together</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-455">By providing a standardized way to code administrative units and populated places, P-codes enable diverse agencies to exchange and analyze data across different languages and spellings, preventing a waste of resources and duplicated efforts during life-saving missions</span></span><span data-path-to-node="2,12">.</span></p>
 <h3 data-path-to-node="3"><span data-path-to-node="3,0"><strong data-path-to-node="3,0" data-index-in-node="0">Lessons Learned: From Kosovo to Ukraine</strong></span></h3>
 <p data-path-to-node="3"><span data-path-to-node="3,2"><span class="citation-454">Tracing the history of P-codes back to the 1998–1999 Kosovo War, the report illustrates how these identifiers originated as an inter-agency effort to coordinate rapid needs assessments</span></span><span data-path-to-node="3,4">. </span><span data-path-to-node="3,6"><span class="citation-453">Modern success stories, such as the response to the 2022 military conflict in Ukraine, demonstrate that P-codes remain essential for navigating geographies with duplicate place names and ensuring international actors plan aid for the correct locations</span></span><span data-path-to-node="3,8">. </span><span data-path-to-node="3,10"><span class="citation-452">However, the report also identifies a "yawning gap" where P-codes are often siloed within organizations or developed only at the onset of a disaster, rather than being integrated into national governance and long-term development strategies</span></span><span data-path-to-node="3,12">.</span></p>
@@ -346,30 +323,24 @@
         </author>
         <link href="https://veritythink.com/how-earth-observation-can-enable-anticipatory-action-in-humanitarian-crises/"/>
         <id>https://veritythink.com/how-earth-observation-can-enable-anticipatory-action-in-humanitarian-crises/</id>
-        <media:content url="https://veritythink.com/media/posts/9/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022.jpg" medium="image" />
             <category term="Paper"/>
 
         <updated>2022-10-31T15:47:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://veritythink.com/media/posts/9/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022.jpg" alt="" />
-                    How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises Written with Sarah Whelan; October 2022 Read the full report The "How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" report, published in October 2022 by the Digital Humanitarian Network (DH Network) and authored&hellip;
+                    Written with Sarah Whelan October 2022 Read the full report The "How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" report, published in October 2022 by the Digital Humanitarian Network (DH Network) and authored by Sarah Whelan and Andrej Verity, explores the pivotal role&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veritythink.com/media/posts/9/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022.jpg" class="type:primaryImage" alt="" /></p>
-                <h2 data-path-to-node="0">How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises</h2>
-<p>Written with <a href="https://www.linkedin.com/in/sarwhelan/" target="_blank" rel="noopener noreferrer">Sarah Whelan</a>; October 2022</p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://veritythink.com/media/posts/9/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2.jpg" alt="" width="1025" height="1450" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-xs.jpg 300w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-sm.jpg 480w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-md.jpg 768w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-lg.jpg 1024w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-xl.jpg 1360w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-2xl.jpg 1600w"></figure>Written with <a href="https://www.linkedin.com/in/sarwhelan/" target="_blank" rel="noopener noreferrer">Sarah Whelan</a><br>October 2022</p>
 <p><strong><a href="https://veritythink.com/How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises - October 2022.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
-<h3 data-path-to-node="2"><span data-path-to-node="2,0"><strong data-path-to-node="2,0" data-index-in-node="0">Revolutionizing Humanitarian Response through Remote Sensing</strong></span></h3>
-<p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-421">The "How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" report, published in October 2022 by the Digital Humanitarian Network (DH Network) and authored by Sarah Whelan and Andrej Verity, explores the pivotal role of satellite technology in modern crisis management</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-420">As climate change increases the severity and frequency of disasters, the report argues that being proactive—rather than reactive—saves lives, preserves dignity, and reduces operational costs</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-419">By leveraging five decades of satellite data, humanitarian organizations can now establish clear "triggers" for action, allowing pre-arranged funding and aid to be released before a predicted crisis hits its peak</span></span><span data-path-to-node="2,12">.</span></p>
+<h2 data-path-to-node="0">AI generated summary</h2>
+<p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-421">The "<em>How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises</em>" report, published in October 2022 by the Digital Humanitarian Network (DH Network) and authored by Sarah Whelan and Andrej Verity, explores the pivotal role of satellite technology in modern crisis management</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-420">As climate change increases the severity and frequency of disasters, the report argues that being proactive—rather than reactive—saves lives, preserves dignity, and reduces operational costs</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-419">By leveraging five decades of satellite data, humanitarian organizations can now establish clear "triggers" for action, allowing pre-arranged funding and aid to be released before a predicted crisis hits its peak</span></span><span data-path-to-node="2,12">.</span></p>
 <p id="p-rc_214e4019beffae33-149" data-path-to-node="2"></p>
 <h3 data-path-to-node="3"><span data-path-to-node="3,0"><strong data-path-to-node="3,0" data-index-in-node="0">Leveraging Diverse Data Streams for Targeted Aid</strong></span></h3>
 <p data-path-to-node="3"><span data-path-to-node="3,2"><span class="citation-418">The report details how various Earth observation (EO) data streams, including land imagery and meteorological forecasts, fill critical gaps in remote areas where local data collection is limited</span></span><span data-path-to-node="3,4">. </span><span data-path-to-node="3,6"><span class="citation-417">High-resolution land imagery allows for precise infrastructure mapping and population density analysis, which helps practitioners plan evacuation corridors and pre-position resources</span></span><span data-path-to-node="3,8">. </span><span data-path-to-node="3,10"><span class="citation-416">Furthermore, multispectral observation tools like the Normalized Difference Vegetation Index (NDVI) and soil moisture estimates serve as "proxies" for food insecurity, enabling early intervention in gradual-onset crises like drought</span></span><span data-path-to-node="3,12">.</span></p>
@@ -396,28 +367,23 @@
         </author>
         <link href="https://veritythink.com/the-humanitarian-sector-and-digital-identity-are-we-affecting-refugees-self-identities/"/>
         <id>https://veritythink.com/the-humanitarian-sector-and-digital-identity-are-we-affecting-refugees-self-identities/</id>
-        <media:content url="https://veritythink.com/media/posts/12/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022.png" medium="image" />
             <category term="Paper"/>
 
         <updated>2022-09-30T16:10:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://veritythink.com/media/posts/12/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022.png" alt="" />
-                    The Humanitarian Sector &amp; Digital Identity: Are We Affecting Refugee’s Self-Identities? Written with Zoey Zhang September 2022 Read the full report The report explores the complex intersection of digital identification technologies and the sociological self-concept of displaced populations. Authored by Zoey Zhang and Andrej Verity, the study&hellip;
+                    Written with Zoey Zhang September 2022 Read the full report The report explores the complex intersection of digital identification technologies and the sociological self-concept of displaced populations. Authored by Zoey Zhang and Andrej Verity, the study investigates whether mandatory digital IDs—often required for life-saving assistance—alter a refugee’s&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veritythink.com/media/posts/12/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022.png" class="type:primaryImage" alt="" /></p>
-                <h2 data-path-to-node="0">The Humanitarian Sector &amp; Digital Identity: Are We Affecting Refugee’s Self-Identities?</h2>
-<p>Written with <a href="https://www.linkedin.com/in/zoey-zhang-251a7a176/" target="_blank" rel="noopener noreferrer">Zoey Zhang</a> September 2022</p>
+                <figure class="post__image post__image--left"><a href="https://veritythink.com/The Humanitarian Sector &amp; Digital Identity - Are We Affecting Refugee's Self-Identities - September 2022.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://veritythink.com/media/posts/12/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022-2.png" alt="" width="924" height="1342" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veritythink.com/media/posts/12/responsive/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022-2-xs.png 300w ,https://veritythink.com/media/posts/12/responsive/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022-2-sm.png 480w ,https://veritythink.com/media/posts/12/responsive/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022-2-md.png 768w ,https://veritythink.com/media/posts/12/responsive/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022-2-lg.png 1024w ,https://veritythink.com/media/posts/12/responsive/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022-2-xl.png 1360w ,https://veritythink.com/media/posts/12/responsive/The-Humanitarian-Sector-and-Digital-Identity-Are-We-Affecting-Refugees-Self-Identities-September-2022-2-2xl.png 1600w"></figure></a>Written with <a href="https://www.linkedin.com/in/zoey-zhang-251a7a176/" target="_blank" rel="noopener noreferrer">Zoey Zhang</a> September 2022</p>
 <p><strong><a href="https://veritythink.com/The Humanitarian Sector &amp; Digital Identity - Are We Affecting Refugee's Self-Identities - September 2022.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
+<h2 data-path-to-node="0">AI generated summary</h2>
 <p data-path-to-node="1"><span data-path-to-node="1,1"><span class="citation-529">The report</span><span class="citation-529"> explores the complex intersection of digital identification technologies and the sociological self-concept of displaced populations</span></span><span data-path-to-node="1,3">. </span><span data-path-to-node="1,5"><span class="citation-528">Authored by Zoey Zhang and Andrej Verity, the study investigates whether mandatory digital IDs—often required for life-saving assistance—alter a refugee’s sense of belonging, culture, or nationalism</span></span><span data-path-to-node="1,7">. </span><span data-path-to-node="1,9"><span class="citation-527">While digital identity provides essential access to services for the undocumented, the research highlights a critical tension: these systems can either empower individuals by recognizing their existence or further marginalize them through digital surveillance and "function creep"</span></span><span data-path-to-node="1,11">.</span></p>
 <p id="p-rc_20765557b8f2efd5-173" data-path-to-node="1"></p>
 <p data-path-to-node="2"><span data-path-to-node="2,1"><span class="citation-526">From a sociological perspective, identity is multifaceted, shaped by social roles, cultural history, and collective commonalities</span></span><span data-path-to-node="2,3">. </span><span data-path-to-node="2,5"><span class="citation-525">The report finds that while a person’s social situation changes drastically during displacement, there is no decisive evidence that a </span><strong data-path-to-node="2,5" data-index-in-node="134"><span class="citation-525">digital humanitarian ID</span></strong><span class="citation-525"> fundamentally replaces or diminishes their primary self-identity</span></span><span data-path-to-node="2,7">. Instead, the impact is highly contextual. </span><span data-path-to-node="2,9"><span class="citation-524">For example, Rohingya refugees have protested IDs that categorize them as "forcibly displaced" because it codifies their exclusion from both their home and host countries, effectively divesting their identity from their ethnicity and nation</span></span><span data-path-to-node="2,11">.</span></p>
@@ -440,29 +406,23 @@
         </author>
         <link href="https://veritythink.com/where-technology-meets-ethics-the-humanitarian-principles-and-their-problematic-relationship-to-technology/"/>
         <id>https://veritythink.com/where-technology-meets-ethics-the-humanitarian-principles-and-their-problematic-relationship-to-technology/</id>
-        <media:content url="https://veritythink.com/media/posts/11/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022.jpeg" medium="image" />
             <category term="Paper"/>
 
         <updated>2022-09-30T15:59:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://veritythink.com/media/posts/11/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022.jpeg" alt="" />
-                    Where Technology Meets Ethics - The Humanitarian Principles and Their Problematic Relationship to Technology Written with Oscar Tequeda; September 2022 Read the full report The "Information Age" is rapidly deconstructing long-held humanitarian truths and challenging the sector's traditional moral frameworks. As technology and data become&hellip;
+                    Written with Oscar Tequeda September 2022 Read the full report The "Information Age" is rapidly deconstructing long-held humanitarian truths and challenging the sector's traditional moral frameworks. As technology and data become central to aid delivery, the humanitarian sector faces a critical "evolutionary" moment similar to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://veritythink.com/media/posts/11/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022.jpeg" class="type:primaryImage" alt="" /></p>
-                <h2 data-path-to-node="0">Where Technology Meets Ethics - The Humanitarian Principles and Their Problematic Relationship to Technology</h2>
-<p>Written with <a href="https://www.linkedin.com/in/oscar-tequida-598865221/" target="_blank" rel="noopener noreferrer">Oscar Tequeda</a>; September 2022</p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://veritythink.com/media/posts/11/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022-2.jpeg" alt="" width="794" height="1123" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veritythink.com/media/posts/11/responsive/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022-2-xs.jpeg 300w ,https://veritythink.com/media/posts/11/responsive/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022-2-sm.jpeg 480w ,https://veritythink.com/media/posts/11/responsive/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022-2-md.jpeg 768w ,https://veritythink.com/media/posts/11/responsive/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022-2-lg.jpeg 1024w ,https://veritythink.com/media/posts/11/responsive/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022-2-xl.jpeg 1360w ,https://veritythink.com/media/posts/11/responsive/Where-Technology-Meets-Ethics-The-Humanitarian-Principles-and-Their-Problematic-Relationship-to-Technology-September-2022-2-2xl.jpeg 1600w"></figure>Written with <a href="https://www.linkedin.com/in/oscar-tequida-598865221/" target="_blank" rel="noopener noreferrer">Oscar Tequeda</a><br>September 2022</p>
 <p><strong><a href="https://veritythink.com/Where Technology Meets Ethics - The Humanitarian Principles and Their Problematic Relationship to Technology - September 2022.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
-<hr>
-<h2 data-path-to-node="0">AI generated summary:</h2>
 <table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
 <tbody>
 <tr>
 <td style="width: 99.8575%;">
-<h3 data-path-to-node="2"><span data-path-to-node="2,0"><strong data-path-to-node="2,0" data-index-in-node="0">The Digital Challenge to Humanitarianism</strong></span></h3>
+<h2 data-path-to-node="0">AI generated summary</h2>
 <p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-497">The "Information Age" is rapidly deconstructing long-held humanitarian truths and challenging the sector's traditional moral frameworks</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-496">As technology and data become central to aid delivery, the humanitarian sector faces a critical "evolutionary" moment similar to the Age of Enlightenment, where rigid adherence to absolute moral claims could lead to institutional decline</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-495">This report by Oscar Tequida and Andrej Verity warns that the time for theorizing has ended; the sector must now act to reconcile its core ethical principles with the practical realities of modern technology</span></span><span data-path-to-node="2,12">.</span></p>
 <p id="p-rc_45a55618b3c33632-165" data-path-to-node="2"></p>
 <h3 data-path-to-node="3"><span data-path-to-node="3,0"><strong data-path-to-node="3,0" data-index-in-node="0">The Conflict of Traditional Principles</strong></span></h3>
