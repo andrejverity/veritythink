@@ -18,7 +18,7 @@
         <id>https://veritythink.com/optimizing-data-for-ai-chatbots/</id>
 
         <updated>2026-01-30T10:00:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Ralfs Rudzitis January 2026 Read the full report Recent research indicates that advanced AI performance can plummet by up to 59% when processing datasets with common real-world imperfections. As AI chatbots become primary tools for data analysis, providers must transition from "human-readable" to&hellip;
                 ]]>
@@ -62,7 +62,7 @@
         <id>https://veritythink.com/future-of-cybersecurity-and-digital-governance-quantum-meets-ai/</id>
 
         <updated>2024-07-31T20:45:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Kyrylo Khutornyi July 2024 Internal report - not released publically The report examines the rapidly evolving cybersecurity environment shaping humanitarian operations, highlighting how emerging technologies - particularly cloud computing, artificial intelligence, and quantum computing - are transforming both risks and defensive capabilities. It&hellip;
                 ]]>
@@ -107,7 +107,7 @@
         <id>https://veritythink.com/possibilities-for-ai-in-responding-to-and-forecasting-climate-change-hazards/</id>
 
         <updated>2023-10-01T08:42:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Sarah Bosscha October 2023 Internal report - not released publically Humanitarian organizations are increasingly turning to data‑driven systems to keep pace with the rising frequency and severity of climate‑related hazards. This report examines how artificial intelligence is reshaping climate‑hazard forecasting and humanitarian action,&hellip;
                 ]]>
@@ -150,7 +150,7 @@
         <id>https://veritythink.com/trust-and-disinformation-in-the-age-of-ai-a-humanitarians-guide-to-llms/</id>
 
         <updated>2023-10-01T08:38:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Katherine Leonard October 2023 Internal report - not released publically Emerging AI systems are transforming how information is produced, shared, and trusted - especially in humanitarian contexts where accuracy and credibility are essential. The rapid rise of large language models has made it&hellip;
                 ]]>
@@ -191,7 +191,7 @@
         <id>https://veritythink.com/generative-ai-for-humanitarians/</id>
 
         <updated>2023-09-30T15:29:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Nasim Motalebi September 2023 Read the full report The "Generative AI for Humanitarians" report, published in September 2023 by the Digital Humanitarian Network (DH Network) and authored by Nasim Motalebi and Andrej Verity, explores the transformative potential of artificial intelligence in crisis response.
                 ]]>
@@ -235,7 +235,7 @@
         <id>https://veritythink.com/data-and-security-responsibilities-of-the-individual-humanitarian/</id>
 
         <updated>2023-06-30T15:41:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Lidewij Heerkens June 2023 Read the full report Published in June 2023 by the Digital Humanitarian Network (DH Network), this report addresses a critical "yawning gap" between high-level organizational data policies and the daily realities faced by humanitarian workers. Authored by Lidewij Heerkens&hellip;
                 ]]>
@@ -278,7 +278,7 @@
         <id>https://veritythink.com/identifying-places-improving-data-connectivity-through-unique-identifiers/</id>
 
         <updated>2022-10-31T15:53:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Elaine Donderer and Tom Haythornthwaite October 2022 Read the full report The report examines the fundamental role of "P-codes" (place codes) in humanitarian response. Authored by Elaine Donderer, Tom Haythornthwaite, and Andrej Verity, the paper highlights how unique identifiers serve as the "unique key"&hellip;
                 ]]>
@@ -318,7 +318,7 @@
         <id>https://veritythink.com/how-earth-observation-can-enable-anticipatory-action-in-humanitarian-crises/</id>
 
         <updated>2022-10-31T15:47:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Sarah Whelan October 2022 Read the full report The "How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" report, published in October 2022 by the Digital Humanitarian Network (DH Network) and authored by Sarah Whelan and Andrej Verity, explores the pivotal role&hellip;
                 ]]>
@@ -361,7 +361,7 @@
         <id>https://veritythink.com/the-humanitarian-sector-and-digital-identity-are-we-affecting-refugees-self-identities/</id>
 
         <updated>2022-09-30T16:10:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Zoey Zhang September 2022 Read the full report The report explores the complex intersection of digital identification technologies and the sociological self-concept of displaced populations. Authored by Zoey Zhang and Andrej Verity, the study investigates whether mandatory digital IDs—often required for life-saving assistance—alter a refugee’s&hellip;
                 ]]>
@@ -399,7 +399,7 @@
         <id>https://veritythink.com/where-technology-meets-ethics-the-humanitarian-principles-and-their-problematic-relationship-to-technology/</id>
 
         <updated>2022-09-30T15:59:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Written with Oscar Tequeda September 2022 Read the full report The "Information Age" is rapidly deconstructing long-held humanitarian truths and challenging the sector's traditional moral frameworks. As technology and data become central to aid delivery, the humanitarian sector faces a critical "evolutionary" moment similar to&hellip;
                 ]]>
