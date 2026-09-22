@@ -3,12 +3,53 @@
     <title>verity•think</title>
     <link href="https://veritythink.com/feed.xml" rel="self" />
     <link href="https://veritythink.com" />
-    <updated>2026-08-28T17:26:00+02:00</updated>
+    <updated>2026-09-22T14:37:43+02:00</updated>
     <author>
         <name>Andrej Verity</name>
     </author>
     <id>https://veritythink.com</id>
 
+    <entry>
+        <title>Humanity in the Loop - Principled AI Adaptation for Humanitarian Organizations</title>
+        <author>
+            <name>Andrej Verity</name>
+        </author>
+        <link href="https://veritythink.com/humanity-in-the-loop-principled-ai-adaptation-for-humanitarian-organizations/"/>
+        <id>https://veritythink.com/humanity-in-the-loop-principled-ai-adaptation-for-humanitarian-organizations/</id>
+        <media:content url="https://veritythink.com/media/posts/57/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-2.jpg" medium="image" />
+
+        <updated>2026-09-22T14:28:52+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://veritythink.com/media/posts/57/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-2.jpg" alt="Humanity in the Look cover page" />
+                    Written with Sophie Bryne September 2026 Read the full report Artificial intelligence adoption is accelerating across the global humanitarian sector, yet formal organizational readiness and strategic policy integration continue to lag significantly behind. While individual frontline responders frequently leverage these advanced technologies on mobile devices&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://veritythink.com/media/posts/57/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-2.jpg" class="type:primaryImage" alt="Humanity in the Look cover page" /></p>
+                <figure class="post__image post__image--left"><a href="https://veritythink.com/media/files/Humanity in the Loop - Principled AI Adaptation for Humanitarian Organizations - September 2026.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://veritythink.com/media/posts/57/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-4.jpg" alt="" width="612" height="792" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veritythink.com/media/posts/57/responsive/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-4-xs.jpg 300w ,https://veritythink.com/media/posts/57/responsive/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-4-sm.jpg 480w ,https://veritythink.com/media/posts/57/responsive/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-4-md.jpg 768w ,https://veritythink.com/media/posts/57/responsive/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-4-lg.jpg 1024w ,https://veritythink.com/media/posts/57/responsive/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-4-xl.jpg 1360w ,https://veritythink.com/media/posts/57/responsive/Humanity-in-the-Loop-Principled-AI-Adaptation-for-Humanitarian-Organizations-September-2026-4-2xl.jpg 1600w"></figure></a></p>
+<p>Written with <a href="https://www.linkedin.com/in/sophie-byrne-298b7617a/" target="_blank" rel="noopener noreferrer">Sophie Bryne</a><br>September 2026</p>
+<p><strong><a href="https://veritythink.com/media/files/Humanity in the Loop - Principled AI Adaptation for Humanitarian Organizations - September 2026.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
+<h2 data-path-to-node="0"> </h2>
+<table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
+<tbody>
+<tr>
+<td style="width: 99.8575%;">
+<h2 data-path-to-node="0">AI generated summary</h2>
+<p><span style="font-weight: 400;"><br>Artificial intelligence adoption is accelerating across the global humanitarian sector, yet formal organizational readiness and strategic policy integration continue to lag significantly behind. While individual frontline responders frequently leverage these advanced technologies on mobile devices and personal computers, humanitarian entities struggle to establish comprehensive governance structures and operational safeguards. This structural gap creates pressing risks regarding data privacy, algorithmic bias, and unmanaged shadow technology that can compromise accountability if left unaddressed.</span></p>
+<p><span style="font-size: inherit;">To navigate this operational challenge, a newly released framework outlines four interconnected pillars designed to guide responsible technological integration: preserving human expertise and judgment, building an internal culture of continuous learning, implementing proportionate governance with robust data foundations, and strengthening wider ecosystem coordination. A central finding emphasizes that efficiency gains and time saved through automation must be actively re-allocated to high-impact field activities and community engagement rather than absorbed by administrative creep.</span></p>
+<p><span style="font-size: inherit;">Structured as an accessible think-brief, the framework provides a practical roadmap that external organizations can easily adapt to their unique operational contexts and institutional workflows. By prioritizing human oversight, responsible design principles, and collaborative cross-sector infrastructures, humanitarian entities can harness technological capabilities while safeguarding the safety, dignity, and agency of the populations they serve.</span></p>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
+<p id="p-rc_0f5d1bb659606df9-100" data-path-to-node="3"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Getting Past the Hype - Navigating the Future of Humanitarian Innovation</title>
         <author>
@@ -387,49 +428,6 @@
 <p data-path-to-node="4"><span data-path-to-node="4,2"><span class="citation-451">Despite their benefits, the adoption of unique identifiers faces significant hurdles, including a lack of temporal lineage—where codes do not reflect how boundaries change over time—and the difficulty of aligning specialized data, such as health districts, with standard administrative boundaries</span></span><span data-path-to-node="4,4">. </span><span data-path-to-node="4,6"><span class="citation-450">Furthermore, the report emphasizes the political dimension of defining spaces; imposing top-down identifiers can inadvertently marginalize communities if not done inclusively</span></span><span data-path-to-node="4,8">. </span><span data-path-to-node="4,10"><span class="citation-449">To address this, the authors advocate for an anti-colonial approach to data ownership that accredits national governments and local sources, ensuring the data remains accurate and sustainable</span></span><span data-path-to-node="4,12">.</span></p>
 <h3 id="p-rc_0f506ff7c2a0dcfa-160" data-path-to-node="5"><span data-path-to-node="5,0"><strong data-path-to-node="5,0" data-index-in-node="0">A Roadmap for the Future of Geospatial Data</strong></span></h3>
 <p data-path-to-node="5"><span data-path-to-node="5,2"><span class="citation-448">Looking ahead, the report suggests that the future of identifying places lies in inter-agency collaboration and the exploration of automated processes like machine learning</span></span><span data-path-to-node="5,4">. </span><span data-path-to-node="5,6"><span class="citation-447">By creating an "inter-agency adapter" to link different coding schemes and prioritizing national ownership of data, the humanitarian community can build a more resilient information infrastructure</span></span><span data-path-to-node="5,8">. </span><span data-path-to-node="5,10"><span class="citation-446">The ultimate goal is to move beyond technical silos and foster a culture where geographic identifiers bring people and disciplines together to improve humanitarian outcomes worldwide</span></span><span data-path-to-node="5,12">.</span></p>
-<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
-<p id="p-rc_0f5d1bb659606df9-100" data-path-to-node="3"></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises</title>
-        <author>
-            <name>Andrej Verity</name>
-        </author>
-        <link href="https://veritythink.com/how-earth-observation-can-enable-anticipatory-action-in-humanitarian-crises/"/>
-        <id>https://veritythink.com/how-earth-observation-can-enable-anticipatory-action-in-humanitarian-crises/</id>
-
-        <updated>2022-10-31T15:47:00+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Written with Sarah Whelan October 2022 Read the full report The "How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises" report, published in October 2022 by the Digital Humanitarian Network (DH Network) and authored by Sarah Whelan and Andrej Verity, explores the pivotal role&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--left"><a href="https://veritythink.com/How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises - October 2022.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://veritythink.com/media/posts/9/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2.jpg" alt="" width="1025" height="1450" sizes="(max-width: 48em) 100vw, 768px" srcset="https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-xs.jpg 300w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-sm.jpg 480w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-md.jpg 768w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-lg.jpg 1024w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-xl.jpg 1360w ,https://veritythink.com/media/posts/9/responsive/How-Earth-Observation-Can-Enable-Anticipatory-Action-in-Humanitarian-Crises-cover-October-2022-2-2xl.jpg 1600w"></figure></a>Written with <a href="https://www.linkedin.com/in/sarwhelan/" target="_blank" rel="noopener noreferrer">Sarah Whelan</a><br>October 2022</p>
-<p><strong><a href="https://veritythink.com/How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises - October 2022.pdf" target="_blank" rel="noopener noreferrer">Read the full report</a></strong></p>
-<table style="border-collapse: collapse; width: 100%; background-color: #ecf0f1; border-style: none;" border="1">
-<tbody>
-<tr>
-<td style="width: 99.8575%;">
-<h2 data-path-to-node="0">AI generated summary</h2>
-<p data-path-to-node="2"><span data-path-to-node="2,2"><span class="citation-421">The "<em>How Earth Observation Can Enable Anticipatory Action in Humanitarian Crises</em>" report, published in October 2022 by the Digital Humanitarian Network (DH Network) and authored by Sarah Whelan and Andrej Verity, explores the pivotal role of satellite technology in modern crisis management</span></span><span data-path-to-node="2,4">. </span><span data-path-to-node="2,6"><span class="citation-420">As climate change increases the severity and frequency of disasters, the report argues that being proactive—rather than reactive—saves lives, preserves dignity, and reduces operational costs</span></span><span data-path-to-node="2,8">. </span><span data-path-to-node="2,10"><span class="citation-419">By leveraging five decades of satellite data, humanitarian organizations can now establish clear "triggers" for action, allowing pre-arranged funding and aid to be released before a predicted crisis hits its peak</span></span><span data-path-to-node="2,12">.</span></p>
-<p id="p-rc_214e4019beffae33-149" data-path-to-node="2"></p>
-<h3 data-path-to-node="3"><span data-path-to-node="3,0"><strong data-path-to-node="3,0" data-index-in-node="0">Leveraging Diverse Data Streams for Targeted Aid</strong></span></h3>
-<p data-path-to-node="3"><span data-path-to-node="3,2"><span class="citation-418">The report details how various Earth observation (EO) data streams, including land imagery and meteorological forecasts, fill critical gaps in remote areas where local data collection is limited</span></span><span data-path-to-node="3,4">. </span><span data-path-to-node="3,6"><span class="citation-417">High-resolution land imagery allows for precise infrastructure mapping and population density analysis, which helps practitioners plan evacuation corridors and pre-position resources</span></span><span data-path-to-node="3,8">. </span><span data-path-to-node="3,10"><span class="citation-416">Furthermore, multispectral observation tools like the Normalized Difference Vegetation Index (NDVI) and soil moisture estimates serve as "proxies" for food insecurity, enabling early intervention in gradual-onset crises like drought</span></span><span data-path-to-node="3,12">.</span></p>
-<p id="p-rc_214e4019beffae33-150" data-path-to-node="3"></p>
-<h3 data-path-to-node="4"><span data-path-to-node="4,0"><strong data-path-to-node="4,0" data-index-in-node="0">Navigating Challenges: Beyond Technical Solutionism</strong></span></h3>
-<p data-path-to-node="4"><span data-path-to-node="4,2"><span class="citation-415">While the potential of EO data is vast, the authors caution against "technological solutionism" and emphasize that data is not a silver bullet</span></span><span data-path-to-node="4,4">. </span><span data-path-to-node="4,6"><span class="citation-414">Significant challenges remain, including the need to manage stakeholder expectations, move beyond small-scale pilot projects, and account for how climate change is altering the historical patterns used for prediction</span></span><span data-path-to-node="4,8">. </span><span data-path-to-node="4,10"><span class="citation-413">The report underscores that for these systems to be effective, they must be "humanitarian-centric," combining objective data with local, indigenous expertise and "human sensors" on the ground to ensure aid is culturally and contextually appropriate</span></span><span data-path-to-node="4,12">.</span></p>
-<p id="p-rc_214e4019beffae33-151" data-path-to-node="4"></p>
-<h3 id="p-rc_214e4019beffae33-152" data-path-to-node="5"><span data-path-to-node="5,0"><strong data-path-to-node="5,0" data-index-in-node="0">A Multi-Sectoral Value Chain for Future Resilience</strong></span></h3>
-<p data-path-to-node="5"><span data-path-to-node="5,2"><span class="citation-412 interactive-span-hovered">The path forward requires a robust "EO Data Value Chain" where scientists, engineers, and humanitarian practitioners collaborate across sectors</span></span><span data-path-to-node="5,4">. </span><span data-path-to-node="5,6"><span class="citation-411">The report highlights that no single organization can manage every aspect of anticipatory action; instead, success depends on a symbiotic relationship between development and humanitarian work</span></span><span data-path-to-node="5,8">. </span><span data-path-to-node="5,10"><span class="citation-410">By institutionalizing peer review frameworks and continuous monitoring, the humanitarian community can build the trust and reliability necessary to mainstream Earth observation as a standard tool for global disaster resilience</span></span><span data-path-to-node="5,12">.</span></p>
 <p id="p-rc_29d3fd78a0a1a612-107" data-path-to-node="9"></p>
 </td>
 </tr>
